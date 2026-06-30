@@ -27,18 +27,22 @@ This is a simulation-based project. Real-world grid integration and payment gate
 
 solar-energy-trading-platform/
 ├── ai-model/        # data collection, training, prediction model
+
 ├── backend/         # trading engine, API, settlement logic
+
 ├── frontend/        # React app
+
 ├── data/            # shared datasets
+
 └── README.md
 
 ## Team
 
 | Role | Members |
 |------|---------|
-| AI / Prediction model | TBD |
-| Trading engine & backend | TBD |
-| Frontend | TBD |
+| AI / Prediction model | Aswin M , Shreenidhi P.L |
+| Trading engine & backend | Hyukjin Kwon |
+| Frontend | HyeonSeung Oh |
 
 ## Timeline
 
