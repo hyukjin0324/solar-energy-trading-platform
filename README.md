@@ -26,6 +26,7 @@ This is a simulation-based project. Real-world grid integration and payment gate
 ## Project structure
 
 solar-energy-trading-platform/
+
 ├── ai-model/        # data collection, training, prediction model
 
 ├── backend/         # trading engine, API, settlement logic
