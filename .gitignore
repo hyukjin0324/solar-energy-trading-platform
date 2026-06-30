@@ -219,7 +219,4 @@ __marimo__/
 
 # Node.js / React
 node_modules/
-.env
-build/
-dist/
 .DS_Store
